@@ -2,8 +2,8 @@
 This project is an AI-powered, non-invasive solution designed to continuously monitor coma patients using a visual perception system. It leverages computer vision and facial landmark detection to identify subtle physical indicators of consciousness, such as eye blinking and lip movement—key signs of neurological activity.
 This project presents an intelligent, non-invasive system to monitor coma patients in real time using advanced computer vision techniques. Built with Python, OpenCV, Dlib, and integrated with facial landmark detection, the system captures subtle signs of neurological activity such as eye blinking, lip movement, and facial expressions to assess the consciousness level of coma patients.
 
-🚀 Features|📷 Real-time video processing using OpenCV👁️ Facial feature tracking using Haar Cascade and Dlib🧠 Detection of micro-movements (eye blinks, lip movement) indicating neurological responses
-🔔 Automated alert system (SMS/Alarm) to notify doctors and caregivers💻 GUI built with Tkinter for easy interaction🧪 Advanced image preprocessing using Gaussian Blur to reduce noise🗄️ MySQL backend for patient data storage and access
+🚀 Features |📷 Real-time video processing using OpenCV👁️ Facial feature tracking using Haar Cascade and Dlib | 🧠 Detection of micro-movements (eye blinks, lip movement) indicating neurological responses
+| 🔔 Automated alert system (SMS/Alarm) to notify doctors and caregivers | 💻 GUI built with Tkinter for easy interaction | 🧪 Advanced image preprocessing using Gaussian Blur to reduce noise | 🗄️ MySQL backend for patient data storage and access
 
 💡 Technologies Used
 *Python 3.6+
