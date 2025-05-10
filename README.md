@@ -97,3 +97,12 @@ cursor.execute("INSERT INTO activity_log (...) VALUES (...)")
 *Run main.py to launch the system
 *Use in a controlled environment like a demo ICU setup
 *Ensure alert delivery and logging works correctly
+
+
+# OUTPUT
+![Picture1](https://github.com/user-attachments/assets/e23c2866-9988-49e6-ada2-dad975f4a12e)
+![Picture2](https://github.com/user-attachments/assets/ed625058-fd06-448c-8190-270b4edf8716)
+![Picture3](https://github.com/user-attachments/assets/cad933a9-f956-4c40-ae89-723c670ba8e5)
+![Picture4](https://github.com/user-attachments/assets/67856bd5-9a70-44d0-9c18-95dd3625ca4a)
+
+
